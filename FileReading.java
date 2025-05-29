@@ -1,6 +1,4 @@
-package Java;
-import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.*;
 import java.util.Scanner;
 public class FileReading {
     public static void main(String[] args) {

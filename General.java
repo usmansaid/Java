@@ -27,3 +27,5 @@ public class General {
 
     }
 }
+
+// default throw and our catch
